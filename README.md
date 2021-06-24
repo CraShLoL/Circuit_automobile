@@ -6,8 +6,14 @@ Study of the convergence of an automobile race where the movements of cars are b
 2 models have been studied, one with and one without overshoot. 
 
 
-## Install
-This project requires Python and the following Python libraries installed:
-- Numpy
-- Matplotlib
-- Numba
+### Install
+
+This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
+
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has the above packages and more included. 
